@@ -1,0 +1,590 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\forms\\basicscode\\customersfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\forms\\basicscode\\customersfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|d:\\04-09-2024\\01018855\\dentalclinicapp\\dentalclinicapp\\database\\model\\tbl_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\database\\model\\tbl_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\forms\\basicscode\\customersfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\forms\\basicscode\\customersfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\getfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\getfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\getfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\getfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\excell.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\excell.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\forms\\basicscode\\accountguidfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\forms\\basicscode\\accountguidfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|d:\\04-09-2024\\01018855\\dentalclinicapp\\dentalclinicapp\\mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\company.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\company.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\managements.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\managements.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\managements.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\managements.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\accountguidds.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\accountguidds.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\managements.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\managements.xss||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\accountguidds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\accountguidds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\forms\\basicscode\\customersfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\forms\\basicscode\\customersfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\forms\\basicscode\\accountguidfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\forms\\basicscode\\accountguidfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\forms\\securitysystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\forms\\securitysystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\receipt\\reciptfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\receipt\\reciptfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\receipt\\reciptfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\receipt\\reciptfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\mywebrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\mywebrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\security\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\security\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\receipt\\reciptfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\receipt\\reciptfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\invoiceheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\invoicelineddb.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\invoicelineddb.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\creatjason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\creatjason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|D:\\04-09-2024\\01018855\\DentalClinicAPP\\dentalclinicapp\\company.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6E533064-33A8-462D-87F5-D7FF6F824666}|DentalClinicAPP\\DentalClinicAPP.csproj|solutionrelative:dentalclinicapp\\company.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9183c819-01e4-3cc8-b93b-edcdbb0ef36c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7ad0d46f-df4a-3d4b-9f9b-8322f9c21927}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tbl_Customer.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\DataBase\\Model\\Tbl_Customer.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\DataBase\\Model\\Tbl_Customer.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\DataBase\\Model\\Tbl_Customer.cs",
+              "RelativeToolTip": "DentalClinicAPP\\DataBase\\Model\\Tbl_Customer.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAcwD8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:59:41.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaxI.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\TaxI.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\TaxI.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\TaxI.cs",
+              "RelativeToolTip": "DentalClinicAPP\\TaxI.cs",
+              "ViewState": "AQIAACIKAAAAAAAAAAAQwD8KAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T19:09:04.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Managements.xsd",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Managements.xsd",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Managements.xsd",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Managements.xsd",
+              "RelativeToolTip": "DentalClinicAPP\\Managements.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-19T10:25:16.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaxI.cs [Design]",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\TaxI.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\TaxI.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\TaxI.cs [Design]",
+              "RelativeToolTip": "DentalClinicAPP\\TaxI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:37:09.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Excell.xsd",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Excell.xsd",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Excell.xsd",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Excell.xsd",
+              "RelativeToolTip": "DentalClinicAPP\\Excell.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-06T07:51:40.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountGuidDs.Designer.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\AccountGuidDs.Designer.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\AccountGuidDs.Designer.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\AccountGuidDs.Designer.cs",
+              "RelativeToolTip": "DentalClinicAPP\\AccountGuidDs.Designer.cs",
+              "ViewState": "AQIAAMIFAAAAAAAAAAAQwNcFAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:56:55.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersFrm.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.cs",
+              "ViewState": "AQIAAN8BAAAAAAAAAAApwPgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:50:56.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetFrm.cs [Design]",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\GetFrm.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\GetFrm.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\GetFrm.cs [Design]",
+              "RelativeToolTip": "DentalClinicAPP\\GetFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:18:24.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetFrm.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\GetFrm.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\GetFrm.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\GetFrm.cs",
+              "RelativeToolTip": "DentalClinicAPP\\GetFrm.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:18:33.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersFrm.cs [Design - Arabic (Egypt)]",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.cs [Design - Arabic (Egypt)]",
+              "RelativeToolTip": "DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.cs [Design - Arabic (Egypt)]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:45:01.879Z",
+              "EditorCaption": " [Design - Arabic (Egypt)]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountGuidFrm.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\AccountGuidFrm.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Forms\\BasicsCode\\AccountGuidFrm.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\AccountGuidFrm.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Forms\\BasicsCode\\AccountGuidFrm.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAlwMAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:52:38.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Company.Designer.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Company.Designer.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Company.Designer.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Company.Designer.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Company.Designer.cs",
+              "ViewState": "AQIAAGIFAAAAAAAAAAAQwGwEAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:12:26.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\App.config",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\App.config",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\App.config",
+              "RelativeToolTip": "DentalClinicAPP\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-19T09:54:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Managements.Designer.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Managements.Designer.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Managements.Designer.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Managements.Designer.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Managements.Designer.cs",
+              "ViewState": "AQIAALgMAAAAAAAAAAAgwPoKAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:27:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainFrm.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\MainFrm.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\MainFrm.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\MainFrm.cs",
+              "RelativeToolTip": "DentalClinicAPP\\MainFrm.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAADwv8AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:11:56.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Managements.xss",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Managements.xss",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Managements.xss",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Managements.xss",
+              "RelativeToolTip": "DentalClinicAPP\\Managements.xss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPpZIxDoIwFIYfbsAiNxBu4KKwMnMBmDyCJxFXndy4AHcgunADdGdAE4EwVV4pWqEgiV/y0uZ/7Z\u002B\u002B1wdjlGW5KYoiroN0IsYcEEIkdrZHfchPkmQbRREEQcDUBtd1wbIsMAxjz6Rvsiybp2lKDocjuWcPYfg7n75mxu4IyfOc7fo8WW6sBOI4DugLHVbrNVMbLuczXG9XCMPw2wAvse0bNBkCDXol4IU2pjDagyn0DPBZ/PoLaoC1i\u002BpH0EhkpqoqXWkT244PgQZ83jRN8DzvM0hoYNs2P6rvGNCbUa6ZoUBdOBRFEc5HVVUa5upYyrJ8Qo32oH1et4yurmnanW44/v5GaaiEaaUBvACMFdHTTBiv\u002BAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-19T10:27:27.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomersFrm.Designer.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.Designer.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.Designer.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.Designer.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Forms\\BasicsCode\\CustomersFrm.Designer.cs",
+              "ViewState": "AQIAAAIDAAAAAAAAAAApwBQDAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:20:57.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountGuidFrm.Designer.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\AccountGuidFrm.Designer.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Forms\\BasicsCode\\AccountGuidFrm.Designer.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\BasicsCode\\AccountGuidFrm.Designer.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Forms\\BasicsCode\\AccountGuidFrm.Designer.cs",
+              "ViewState": "AQIAAEkCAAAAAAAAAAApwFgCAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:20:14.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountGuidDs.xsd",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\AccountGuidDs.xsd",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\AccountGuidDs.xsd",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\AccountGuidDs.xsd",
+              "RelativeToolTip": "DentalClinicAPP\\AccountGuidDs.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-19T09:53:09.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReciptFrm.cs [Design]",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Receipt\\ReciptFrm.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Receipt\\ReciptFrm.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Receipt\\ReciptFrm.cs [Design]",
+              "RelativeToolTip": "DentalClinicAPP\\Receipt\\ReciptFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:04:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReciptFrm.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Receipt\\ReciptFrm.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Receipt\\ReciptFrm.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Receipt\\ReciptFrm.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Receipt\\ReciptFrm.cs",
+              "ViewState": "AQIAAFICAAAAAAAAAAAgwGkCAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:12:10.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Program.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Program.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Program.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:53:46.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MyWebRequest.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\MyWebRequest.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\MyWebRequest.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\MyWebRequest.cs",
+              "RelativeToolTip": "DentalClinicAPP\\MyWebRequest.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAlwMUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:17:32.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\SecuritySystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Forms\\SecuritySystem\\LoginForm.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Forms\\SecuritySystem\\LoginForm.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Forms\\SecuritySystem\\LoginForm.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAD4vyUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:26:35.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Form1.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Form1.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Form1.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Form1.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwHEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:51:35.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Form1.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Form1.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Form1.cs [Design]",
+              "RelativeToolTip": "DentalClinicAPP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T15:51:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Security.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Security\\Security.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Security\\Security.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Security\\Security.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Security\\Security.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:23:59.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReciptFrm.Designer.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Receipt\\ReciptFrm.Designer.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Receipt\\ReciptFrm.Designer.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Receipt\\ReciptFrm.Designer.cs",
+              "RelativeToolTip": "DentalClinicAPP\\Receipt\\ReciptFrm.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:04:05.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InvoiceHeader.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\InvoiceHeader.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\InvoiceHeader.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\InvoiceHeader.cs",
+              "RelativeToolTip": "DentalClinicAPP\\InvoiceHeader.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAA4wI4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:38:47.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InvoiceLinedDB.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\InvoiceLinedDB.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\InvoiceLinedDB.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\InvoiceLinedDB.cs",
+              "RelativeToolTip": "DentalClinicAPP\\InvoiceLinedDB.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAowJMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:06:03.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Company.xsd",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Company.xsd",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\Company.xsd",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\Company.xsd",
+              "RelativeToolTip": "DentalClinicAPP\\Company.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-09-06T08:15:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreatJason.cs",
+              "DocumentMoniker": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\CreatJason.cs",
+              "RelativeDocumentMoniker": "DentalClinicAPP\\CreatJason.cs",
+              "ToolTip": "D:\\04-09-2024\\01018855\\DentalClinicAPP\\DentalClinicAPP\\CreatJason.cs",
+              "RelativeToolTip": "DentalClinicAPP\\CreatJason.cs",
+              "ViewState": "AQIAAJkCAAAAAAAAAAAAAAkBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:44:08.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
